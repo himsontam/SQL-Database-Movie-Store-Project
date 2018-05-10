@@ -1,5 +1,9 @@
 # SQL-Database-Movie-Store-Project
 
+Designed   and   Developed   by   Team   ProjectX
+Dawit   Y   Abera   |   Reshma   Maduri   Sivakumar   |   Haimanot   Zerkel   |   Lok   Him   Tam
+August   17,   2017
+
 Online   Movie   Store   database   developed by   the   ProjectX   team   for   the   final   project   in   Database   Systems   class   at   University   of Washington.   The   following   sections   outline   the   database   application,   lists   the entities   that   the   database   stores   and   provides   some   SQL   queries   that   were   used   to build   the   database.   The   document   concludes   with   a   reflection   of   the   project.
 
 
